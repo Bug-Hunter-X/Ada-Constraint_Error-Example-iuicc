@@ -1,0 +1,1 @@
+This repository contains an example of a Constraint_Error in Ada. The `bug.ada` file shows the erroneous code, which attempts to assign a value to a subtype outside its defined range.  The `bugSolution.ada` file demonstrates a corrected version. This is a common error when working with subtypes in Ada.
